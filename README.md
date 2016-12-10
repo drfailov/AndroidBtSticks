@@ -32,3 +32,9 @@ But looks like in some cases pinouts can differ between models. Double-check pin
 
 Thanks to Hasi, for sharing code to write PPM for Arduino:
 https://www.rcgroups.com/forums/showthread.php?1808432-Arduino-ppm-signal-reader-and-generator
+
+
+<p align="center">
+  <img src="Screenshot_20161210-042200.png" width="350"/>
+  <img src="Screenshot_20161210-042232.png" width="350"/>
+</p>
